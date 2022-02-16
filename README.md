@@ -25,9 +25,9 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 
 
 ## Personal Information
-Name: Zeyang Zhou\
-Netid: zezhou\
-SUID: 205387290\
-Email: zezhou@syr.edu\
-Major: Appied Data Science\
-College: School of Information Studies\
+* Name: Zeyang Zhou
+* Netid: zezhou
+* SUID: 205387290
+* Email: zezhou@syr.edu
+* Major: Appied Data Science
+* College: School of Information Studies
