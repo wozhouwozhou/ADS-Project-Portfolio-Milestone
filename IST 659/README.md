@@ -1,1 +1,1 @@
-# IST 659 
+# IST 659 – Data Administration and Database Management
