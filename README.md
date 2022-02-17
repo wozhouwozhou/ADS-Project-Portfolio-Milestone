@@ -17,13 +17,14 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 * IST 652 – Scripting for Data Analysis
 
 * IST 707 – Data Analytics
-### 2. Resume - Zeyang Zhou
+### 2. Current Professional Resume - Zeyang Zhou
 * Zeyang Zhou's Resume ------2/16/2022
 
 ### 3. Presentation Link
-
-
-
+* Presentation video link:
+* Slides from video: 
+### 4. Project-Portfolio-Milestone Report
+* Written paper
 ## Personal Information
 * Name: Zeyang Zhou
 * Netid: zezhou
