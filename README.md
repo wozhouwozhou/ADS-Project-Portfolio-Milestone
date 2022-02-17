@@ -10,7 +10,7 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 
 * IST 687 – Introduction to Data Science
 
-* IST 659 – Data Administration and Database Management
+* IST 718 – Big Data Analytics
 
 * IST 615 – Cloud Management
 
