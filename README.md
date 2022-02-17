@@ -21,7 +21,7 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 * Zeyang Zhou's Resume ------2/16/2022
 
 ### 3. Presentation Link
-* Presentation video link:
+* Presentation video:
 * Slides from video: 
 ### 4. Project-Portfolio-Milestone Report
 * Written paper
