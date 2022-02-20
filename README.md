@@ -6,19 +6,19 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 
 ## Table of Contents
 ### 1. Projects and Assignments
-* IST 659 – Data Administration and Database Management
+* [IST 659 – Data Administration and Database Management](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20659)
 
-* IST 687 – Introduction to Data Science
+* [IST 687 – Introduction to Data Science](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20687)
 
-* IST 718 – Big Data Analytics
+* [IST 718 – Big Data Analytics](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20718)
 
-* IST 615 – Cloud Management
+* [IST 615 – Cloud Management](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20615)
 
-* IST 652 – Scripting for Data Analysis
+* [IST 652 – Scripting for Data Analysis](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20652)
 
-* IST 707 – Data Analytics
+* [IST 707 – Data Analytics](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20707)
 ### 2. Current Professional Resume - Zeyang Zhou
-* Zeyang Zhou's Resume ------2/16/2022
+* [Zeyang Zhou's Resume ------2/16/2022](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/blob/main/Resume-Zeyang%20Zhou%20(Jason%20Zhou).pdf)
 
 ### 3. Presentation Link
 * Presentation video:
