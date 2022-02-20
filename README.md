@@ -10,10 +10,6 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 
 * [IST 687 – Introduction to Data Science](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20687)
 
-* [IST 718 – Big Data Analytics](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20718)
-
-* [IST 615 – Cloud Management](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20615)
-
 * [IST 652 – Scripting for Data Analysis](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20652)
 
 * [IST 707 – Data Analytics](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/tree/main/IST%20707)
