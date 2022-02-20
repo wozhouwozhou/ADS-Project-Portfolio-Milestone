@@ -24,7 +24,7 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 * Presentation video:
 * Slides from video: 
 ### 4. Project-Portfolio-Milestone Report
-* Written paper
+* [Written paper](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/blob/main/ADS-Project-portfolio-milestone-zezhou.pdf)
 ## Personal Information
 * Name: Zeyang Zhou
 * Netid: zezhou
