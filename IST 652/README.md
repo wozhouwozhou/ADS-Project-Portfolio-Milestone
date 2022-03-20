@@ -1,6 +1,4 @@
 # IST 652 – Scripting for Data Analysis
-* Google Drive:
-https://drive.google.com/drive/folders/1E2CjrMaaEL0ibY7XJIGBkWdRH4_fKag3?usp=sharing
 * Code:
 https://colab.research.google.com/drive/1xvgOuTI34o-dnixf2wllZHsdWp86wCkr?usp=sharing
 * Final Report:
