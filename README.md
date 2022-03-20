@@ -17,7 +17,7 @@ Students will complete a Portfolio to provide an assessment of learning for thei
 * [Zeyang Zhou's Resume ------2/16/2022](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/blob/main/Resume-Zeyang%20Zhou%20(Jason%20Zhou).pdf)
 
 ### 3. Presentation Link
-* Presentation video:
+* Presentation video: [Presentation link](https://video.syr.edu/media/t/1_r9nr5jjl)
 * Slides from video: 
 ### 4. Project-Portfolio-Milestone Report
 * [Written paper](https://github.com/wozhouwozhou/ADS-Project-Portfolio-Milestone/blob/main/ADS-Project-portfolio-milestone-zezhou.pdf)
